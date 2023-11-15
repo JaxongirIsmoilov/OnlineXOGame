@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1037447976295",
+    "firebase_url": "https://onlinetictactoegame-40453-default-rtdb.firebaseio.com",
+    "project_id": "onlinetictactoegame-40453",
+    "storage_bucket": "onlinetictactoegame-40453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037447976295:android:d31797c67cb0ae08c10bc2",
+        "android_client_info": {
+          "package_name": "com.honeycake.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzenMlxMlzr-9vfSHsMVxbyAZaiP6Zqyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037447976295:android:83c6a93006c06ee3c10bc2",
+        "android_client_info": {
+          "package_name": "uz.gita.jaxongir.gamexoonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzenMlxMlzr-9vfSHsMVxbyAZaiP6Zqyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037447976295:android:6b68c5a0b475525ec10bc2",
+        "android_client_info": {
+          "package_name": "uz.gita.jaxongir.onlinexogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzenMlxMlzr-9vfSHsMVxbyAZaiP6Zqyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
